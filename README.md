@@ -24,3 +24,8 @@ Nosetest can be installed via `pip install nose`
 
 The documentation of this package is built via sphinx with the ReadTheDocs theme. 
 If you wish to build your own documentation, you must install sphinx_rtd_theme
+
+
+This is my edit.
+
+This is my second edit.
